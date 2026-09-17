@@ -1,0 +1,6 @@
+{
+  "name": "DON'T FALL",
+  "description": "A thrilling 3D platformer game built with Three.js and Vite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
